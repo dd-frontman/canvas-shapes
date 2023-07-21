@@ -1,4 +1,4 @@
-# Vue canvas-shapes app
+# [Vue canvas-shapes app]([https://t.me/dk_d3v](https://den-dev97.github.io/canvas-shapes/)
 
 Это простое приложение на Vue.js, которое использует элемент HTML5 canvas для визуализации круга и квадрата. Квадрат можно перемещать внутри круга, но не за его пределы.
 
