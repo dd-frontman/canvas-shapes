@@ -1,4 +1,4 @@
-# <a href="https://den-dev97.github.io/canvas-shapes/" target="_blank">Vue canvas-shapes app</a>
+# <a href="https://dd-frontman.github.io/canvas-shapes/" target="_blank">Vue canvas-shapes app</a>
 
 
 ![app-preview](src/assets/img.png)
